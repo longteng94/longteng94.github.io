@@ -22,7 +22,7 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
+    - {title: Researchgate, description: My Researchgate, url: 'https://www.researchgate.net/profile/Xiaoteng_Zhou2'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
@@ -38,10 +38,10 @@ comment:
 # Social
 social:
     weibo: onevcat
-    github: onevcat
-    twitter: onevcat
-    gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    github: longteng94
+    twitter: longteng944
+    gplus: u/0/
+    mail: longteng944@gmail.com
 
 # Google Analytics
 ga:
